@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbs:postgresql://localhost:5432/my_db
-    username: vlad
+    url: jdbc:postgresql://localhost:5432/spring_crud
+    username: spring_crud
     password: asdasd123
 server:
   port: 8081
